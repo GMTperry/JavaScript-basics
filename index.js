@@ -2,23 +2,22 @@
   //let name = 'Perry';
   //console.log(name);
   //console.log('hello world');
-// variables cannot be a reserved world
-// they have to be a meaningful name
-// cannot start with a number
-// cannot contain a space of hyphen
-//they are case sensitive ;
+  // variables cannot be a reserved world
+  // they have to be a meaningful name
+  // cannot start with a number
+  // cannot contain a space of hyphen
+  //they are case sensitive ;
 
 // constants :
-//the value of a variable can change, but a constants value cannot
+  //the value of a variable can change, but a constants value cannot
   //let interestRate = 1.5;
   //interestRate = 1;
   //console.log(interestRate);
   //const hourlyPay = 12.75;
   //hourlyPay = 20;
   //console.log(hourlyPay);
-//as you can see, the constant value could not be changed but the variable value changed.
-//if you dont need to reassign, use constant(ex.earths gravity, months in a year, etc.), else use
-//varibles ;
+  //as you can see, the constant value could not be changed but the variable value changed.
+  //if you dont need to reassign, use constant(ex.earths gravity, months in a year, etc.), else use varibles ;
 
 //Primitive/value types :
   // these include 'string', 'number', 'boolean', 'undefined', and 'null'
@@ -26,7 +25,7 @@
   //let name = 4; //number literal
   //let isApproved = true; //boolean literal
   //let lastName = undefined; //undefined literal, this is not very common
-  //let lastName; //undefined literal, this is comminly used
+  //let lastName; //undefined literal, this is commonly used
   //let selectedColor = null; //null literal, used explicitly when trying to clear the value of the variable ;
 
 //Reference types :
@@ -40,7 +39,6 @@
       //age : 16
     //}; //the curly braces is what we call an object literal
     //console.log(person);
-// ;
 
 // Dot Notation
   //person.name = 'John'; //dot notation is cleaner and simple
